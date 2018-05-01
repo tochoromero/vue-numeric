@@ -1,11 +1,11 @@
 # vue-numeric
 
-[![npm](https://img.shields.io/npm/v/vue-numeric.svg)](https://www.npmjs.com/package/vue-numeric)
-[![npm](https://img.shields.io/npm/dt/vue-numeric.svg)](https://www.npmjs.com/package/vue-numeric)
-[![npm](https://img.shields.io/npm/dm/vue-numeric.svg)](https://www.npmjs.com/package/vue-numeric)
-[![Build Status](https://travis-ci.org/kevinongko/vue-numeric.svg?branch=master)](https://travis-ci.org/kevinongko/vue-numeric)
-[![Codecov](https://img.shields.io/codecov/c/github/kevinongko/vue-numeric.svg)](https://codecov.io/gh/kevinongko/vue-numeric)
-[![npm](https://img.shields.io/npm/l/vue-numeric.svg)](http://opensource.org/licenses/MIT)
+[![npm](https://img.shields.io/npm/v/vue-numeric.svg?style=flat-square)](https://www.npmjs.com/package/vue-numeric)
+[![npm](https://img.shields.io/npm/dt/vue-numeric.svg?style=flat-square)](https://www.npmjs.com/package/vue-numeric)
+[![npm](https://img.shields.io/npm/dm/vue-numeric.svg?style=flat-square)](https://www.npmjs.com/package/vue-numeric)
+[![Build Status](https://img.shields.io/travis/kevinongko/vue-numeric.svg?style=flat-square)](https://travis-ci.org/kevinongko/vue-numeric)
+[![Codecov](https://img.shields.io/codecov/c/github/kevinongko/vue-numeric.svg?style=flat-square)](https://codecov.io/gh/kevinongko/vue-numeric)
+[![npm](https://img.shields.io/npm/l/vue-numeric.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 Input field component to display a formatted currency value based on [Vue](https://vuejs.org/).
 
@@ -165,3 +165,8 @@ by setting the property `output-type` to `String`.
 ## License
 
 Vue-Numeric is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+## Support
+Hello, I'm Kevin the maintainer of this project in my free time (which is getting lessen these days), if this project does help you in any way please consider to support me. Thanks :smiley:
+- [One-time donation via Paypal](https://www.paypal.me/kevinongko)
+
